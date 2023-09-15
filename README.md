@@ -8,6 +8,6 @@ Project overview:
 
 🌐 Web Integration: Published my chatbot into a local website copy of the Big Star Collectibles website, transforming it into an interactive platform.
 
-
+Link to the course credential: https://bit.ly/45Mz644
 
 #GPT4 #Chatbot #Voiceflow #AI #Learning #Datascience 
