@@ -1,4 +1,6 @@
-# Chat-assistent
+# Chat-assistant
+
+From the learning of a course named "GPT-4 Foundations: Building AI-Powered Apps," by Denys Linkov, I built a tiny digital assistant.
 
 Project overview:
 
