@@ -10,4 +10,3 @@ Project overview:
 
 Link to the course credential: https://bit.ly/45Mz644
 
-#GPT4 #Chatbot #Voiceflow #AI #Learning #Datascience #DataEngineering
